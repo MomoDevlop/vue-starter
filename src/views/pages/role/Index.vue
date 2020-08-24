@@ -43,8 +43,8 @@
 
 <script>
     import {cacheHandler, permissionChecker} from '../../../app/utils'
-    import {mapActions, mapGetters, mapMutations} from '@dsquare-gbu/vue-uses'
-    import {Collection, DataPlot, Sorter, Searcher, ItemSelection, Paginator} from '@dsquare-gbu/vue-utils'
+    import {mapActions, mapGetters, mapMutations} from '@linhntaim/vue-uses'
+    import {Collection, DataPlot, Sorter, Searcher, ItemSelection, Paginator} from '@linhntaim/vue-utils'
     import {ITEMS_PER_PAGE_LIST} from '../../../app/config'
     import helpers from '../../../app/utils/helpers'
     import PaginatorComponent from '../../components/Paginator'

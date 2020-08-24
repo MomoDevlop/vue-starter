@@ -27,9 +27,9 @@
 </template>
 
 <script>
-    import {mapActions, mapGetters} from '@dsquare-gbu/vue-uses'
+    import {mapActions, mapGetters} from '@linhntaim/vue-uses'
     import {ui, localeChange} from '../../../app/utils'
-    import {Searcher} from '@dsquare-gbu/vue-utils'
+    import {Searcher} from '@linhntaim/vue-utils'
     import MultipleSelect2Input from '../../components/MultipleSelect2Input'
 
     export default {

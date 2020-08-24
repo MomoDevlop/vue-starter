@@ -13,7 +13,7 @@
 </template>
 
 <script>
-    import {mapGetters} from '@dsquare-gbu/vue-uses'
+    import {mapGetters} from '@linhntaim/vue-uses'
     import {systemLogAdminService} from '../../../../app/services/default/admin-system-log'
 
     export default {

@@ -31,7 +31,7 @@
 </template>
 
 <script>
-    import {mapGetters} from '@dsquare-gbu/vue-uses'
+    import {mapGetters} from '@linhntaim/vue-uses'
     import {permissionChecker, timeoutCaller, ui} from '../../app/utils'
     import {APP_NAME, APP_ROUTE} from '../../app/config'
     import {routePermissions} from '../../app/router'

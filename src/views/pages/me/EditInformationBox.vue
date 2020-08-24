@@ -38,8 +38,8 @@
 </template>
 
 <script>
-    import {mapActions, mapGetters} from '@dsquare-gbu/vue-uses'
-    import {FilesUploader} from '@dsquare-gbu/vue-utils'
+    import {mapActions, mapGetters} from '@linhntaim/vue-uses'
+    import {FilesUploader} from '@linhntaim/vue-utils'
     import EditEmailModal from './EditEmailModal'
     import EditPasswordModal from './EditPasswordModal'
     import {MAX_CHUNK_UPLOAD_SIZE, TOAST_DEF} from '../../../app/config'

@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    import {Sorter} from '@dsquare-gbu/vue-utils'
+    import {Sorter} from '@linhntaim/vue-utils'
 
     export default {
         name: 'Sorter',

@@ -21,8 +21,8 @@
 </template>
 
 <script>
-    import {mapActions} from '@dsquare-gbu/vue-uses'
-    import {session} from '@dsquare-gbu/vue-router'
+    import {mapActions} from '@linhntaim/vue-uses'
+    import {session} from '@linhntaim/vue-router'
     import {APP_ROUTE} from '../../../app/config'
 
     export default {

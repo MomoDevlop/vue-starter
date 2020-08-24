@@ -31,9 +31,9 @@
 </template>
 
 <script>
-    import {mapActions, mapGetters} from '@dsquare-gbu/vue-uses'
+    import {mapActions, mapGetters} from '@linhntaim/vue-uses'
     import {ui, localeChange} from '../../../app/utils'
-    import {Collection} from '@dsquare-gbu/vue-utils'
+    import {Collection} from '@linhntaim/vue-utils'
     import {TOAST_DEF} from '../../../app/config'
     import MultipleSelect2Input from '../../components/MultipleSelect2Input'
 

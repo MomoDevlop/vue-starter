@@ -3,7 +3,7 @@
 </template>
 
 <script>
-    import {mapGetters} from '@dsquare-gbu/vue-uses'
+    import {mapGetters} from '@linhntaim/vue-uses'
 
     export default {
         name: 'Home',

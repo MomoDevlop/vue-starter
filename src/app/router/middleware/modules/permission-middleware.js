@@ -1,5 +1,5 @@
 import {permissionChecker} from '../../../utils'
-import {Middleware} from '@dsquare-gbu/vue-uses'
+import {Middleware} from '@linhntaim/vue-uses'
 import {APP_ROUTE} from '../../../config'
 import routePermissions from '../../route-permissions'
 

@@ -24,7 +24,7 @@
 </template>
 
 <script>
-    import {mapActions} from '@dsquare-gbu/vue-uses'
+    import {mapActions} from '@linhntaim/vue-uses'
     import {intervalCaller, timeoutCaller} from '../../../app/utils'
     import {APP_ROUTE} from '../../../app/config'
 

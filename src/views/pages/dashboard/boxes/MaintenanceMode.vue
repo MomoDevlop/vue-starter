@@ -24,7 +24,7 @@
 <script>
     import {commandAdminService} from '../../../../app/services/default/admin-command'
     import {ui} from '../../../../app/utils'
-    import app from '@dsquare-gbu/vue-app'
+    import app from '@linhntaim/vue-app'
     import helpers from '../../../../app/utils/helpers'
 
     export default {

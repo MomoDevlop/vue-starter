@@ -1,4 +1,4 @@
-import {Middleware} from '@dsquare-gbu/vue-uses'
+import {Middleware} from '@linhntaim/vue-uses'
 
 export default class LocaleMiddleware extends Middleware {
     handle() {

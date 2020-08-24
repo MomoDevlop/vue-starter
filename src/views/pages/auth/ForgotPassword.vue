@@ -20,7 +20,7 @@
 </template>
 
 <script>
-    import {mapActions} from '@dsquare-gbu/vue-uses'
+    import {mapActions} from '@linhntaim/vue-uses'
     import {APP_ROUTE} from '../../../app/config'
 
     export default {

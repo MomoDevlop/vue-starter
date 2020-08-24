@@ -15,7 +15,7 @@
 </template>
 
 <script>
-    import {mapGetters} from '@dsquare-gbu/vue-uses'
+    import {mapGetters} from '@linhntaim/vue-uses'
     import {ui} from '../../app/utils'
     import moment from 'moment'
 
