@@ -1,5 +1,5 @@
 {
-    "name": "@dsquare-gbu/vue-starter",
+    "name": "@linhntaim/vue-starter",
     "version": "1.0.0",
     "private": true,
     "scripts": {
@@ -12,12 +12,12 @@
         "@compile": "node ./run/dist/compile.js"
     },
     "dependencies": {
-        "@dsquare-gbu/vue-app": "^1.0.8",
-        "@dsquare-gbu/vue-bus": "^1.0.3",
-        "@dsquare-gbu/vue-router": "^1.0.7",
-        "@dsquare-gbu/vue-services": "^1.0.9",
-        "@dsquare-gbu/vue-uses": "^1.0.11",
-        "@dsquare-gbu/vue-utils": "^1.0.30",
+        "@linhntaim/vue-app": "^1.0.10",
+        "@linhntaim/vue-bus": "^1.0.3",
+        "@linhntaim/vue-router": "^1.0.8",
+        "@linhntaim/vue-services": "^1.0.9",
+        "@linhntaim/vue-uses": "^1.0.11",
+        "@linhntaim/vue-utils": "^1.0.30",
         "core-js": "^3.6.5",
         "cropperjs": "^1.5.7",
         "moment": "^2.27.0",
